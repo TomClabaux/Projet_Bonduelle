@@ -17,153 +17,80 @@
 	
     <!-- Main content -->
     <section class="content">
-		
 		<!-- Content Row -->
+		<!-- Page Content -->
+		<div class="container">
+			
+				<div class="col-lg-3 col-md-4 col-xs-6">
+					<a href="#" class="d-block mb-4 h-100">
+						<img class="img-fluid img-thumbnail" src="dist/img/ecran.jpg">
+						<button type="button" class="btn btn-danger">-</button>
+						<input type="nombre" class="btn" id="nombre" placeholder="1">
+						<button type="button" class="btn btn-success">+</button>
+					</a>
+				</div>
+				<div class="col-lg-3 col-md-4 col-xs-6">
+					<a href="#" class="d-block mb-4 h-100">
+						<img class="img-fluid img-thumbnail" src="dist/img/chargeur.jpg">
+						<button type="button" class="btn btn-danger">-</button>
+						<input type="nombre" class="btn" id="nombre" placeholder="1">
+						<button type="button" class="btn btn-success">+</button>
+					</a>
+				</div>
+				<div class="col-lg-3 col-md-4 col-xs-6">
+					<a href="#" class="d-block mb-4 h-100">
+						<img class="img-fluid img-thumbnail" src="dist/img/chromecast.jpg">
+						<button type="button" class="btn btn-danger">-</button>
+						<input type="nombre" class="btn" id="nombre" placeholder="1">
+						<button type="button" class="btn btn-success">+</button>
+					</a>
+				</div>
+				<div class="col-lg-3 col-md-4 col-xs-6">
+					<a href="#" class="d-block mb-4 h-100">
+						<img class="img-fluid img-thumbnail" src="dist/img/clavier.jpg">
+						<button type="button" class="btn btn-danger">-</button>
+						<input type="nombre" class="btn" id="nombre" placeholder="1">
+						<button type="button" class="btn btn-success">+</button>
+					</a>
+				</div>
+				<div class="col-lg-3 col-md-4 col-xs-6">
+					<a href="#" class="d-block mb-4 h-100">
+						<img class="img-fluid img-thumbnail" src="dist/img/batterie.jpg">
+						<button type="button" class="btn btn-danger">-</button>
+						<input type="nombre" class="btn" id="nombre" placeholder="1">
+						<button type="button" class="btn btn-success">+</button>
+					</a>
+				</div>
+				<div class="col-lg-3 col-md-4 col-xs-6">
+					<a href="#" class="d-block mb-4 h-100">
+						<img class="img-fluid img-thumbnail" src="dist/img/sacoche.jpg">
+						<button type="button" class="btn btn-danger">-</button>
+						<input type="nombre" class="btn" id="nombre" placeholder="1">
+						<button type="button" class="btn btn-success">+</button>
+					</a>
+				</div>
+				<div class="col-lg-3 col-md-4 col-xs-6">
+					<a href="#" class="d-block mb-4 h-100">
+						<img class="img-fluid img-thumbnail" src="dist/img/souris.jpg">
+						<button type="button" class="btn btn-danger">-</button>
+						<input type="nombre" class="btn" id="nombre" placeholder="1">
+						<button type="button" class="btn btn-success">+</button>
+					</a>
+				</div>
+				<div class="col-lg-3 col-md-4 col-xs-6">
+					<a href="#" class="d-block mb-4 h-100">
+						<img class="img-fluid img-thumbnail" src="dist/img/casque.jpg">
+						<button type="button" class="btn btn-danger">-</button>
+						<input type="nombre" class="btn" id="nombre" placeholder="1">
+						<button type="button" class="btn btn-success">+</button>
+					</a>
+				</div>
+				
+		</div>
 		
-        <div class="col-md-4 mb-4">
-			<div class="card h-100">
-				
-				<div class="card-body">
-					<a href="#" >
-						<img class="img-fluid img-thumbnail" src="dist/img/ecran.jpg" alt="">
-					</a>
-				</div>
-				
-				<div class="card-footer">
-					<tr>
-						<td>
-							<button type="button" class="btn btn-danger">-</button>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<button type="button" class="btn btn-success">+</button>
-						</td>
-					</tr>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-4 mb-4">
-			<div class="card h-100">
-				
-				<div class="card-body">
-					<a href="#" >
-						<img class="img-fluid img-thumbnail" src="dist/img/casque.jpg" alt="">
-					</a>
-				</div>
-				
-				<div class="card-footer">
-					<tr>
-						<td>
-							<button type="button" class="btn btn-danger">-</button>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<button type="button" class="btn btn-success">+</button>
-						</td>
-					</tr>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-4 mb-4">
-			<div class="card h-100">
-				
-				<div class="card-body">
-					<a href="#" >
-						<img class="img-fluid img-thumbnail" src="dist/img/chargeur.jpg" alt="">
-					</a>
-				</div>
-				
-				<div class="card-footer">
-					<tr>
-						<td>
-							<button type="button" class="btn btn-danger">-</button>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<button type="button" class="btn btn-success">+</button>
-						</td>
-					</tr>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-4 mb-4">
-			<div class="card h-100">
-				
-				<div class="card-body">
-					<a href="#" >
-						<img class="img-fluid img-thumbnail" src="dist/img/chromecast.jpg" alt="">
-					</a>
-				</div>
-				
-				<div class="card-footer">
-					<tr>
-						<td>
-							<button type="button" class="btn btn-danger">-</button>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<button type="button" class="btn btn-success">+</button>
-						</td>
-					</tr>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-4 mb-4">
-			<div class="card h-100">
-				
-				<div class="card-body">
-					<a href="#" >
-						<img class="img-fluid img-thumbnail" src="dist/img/clavier.jpg" alt="">
-					</a>
-				</div>
-				
-				<div class="card-footer">
-					<tr>
-						<td>
-							<button type="button" class="btn btn-danger">-</button>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<button type="button" class="btn btn-success">+</button>
-						</td>
-					</tr>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-4 mb-4">
-			<div class="card h-100">
-				
-				<div class="card-body">
-					<a href="#" >
-						<img class="img-fluid img-thumbnail" src="dist/img/batterie.jpg" alt="">
-					</a>
-				</div>
-				
-				<div class="card-footer">
-					<tr>
-						<td>
-							<button type="button" class="btn btn-danger">-</button>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<button type="button" class="btn btn-success">+</button>
-						</td>
-					</tr>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	
-</section>
-<!-- /.content -->
+	</section>
+	<!-- /.content -->
 </div>
 <!-- /.content-wrapper -->
 <!-- import_footer -->
-<?php include('footer.php'); ?>
+<?php include('footer.php'); ?>					

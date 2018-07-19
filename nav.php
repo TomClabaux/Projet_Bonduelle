@@ -31,7 +31,7 @@
 								<li class="dropdown user user-menu">
 									<a href="#" class="dropdown-toggle" data-toggle="dropdown">
 										<img src="dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
-										<span class="hidden-xs">Tom Clabaux</span>
+										<span class="hidden-xs">ProxiTeam</span>
 									</a>
 									<ul class="dropdown-menu">
 										<!-- User image -->
@@ -39,7 +39,7 @@
 											<img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
 											
 											<p>
-												Tom Clabaux - Web Developer
+												ProxiTeam - Web Developer
 												<small>Member since Nov. 2012</small>
 											</p>
 										</li>
@@ -56,7 +56,7 @@
 								</li>
 								<!-- Control Sidebar Toggle Button -->
 								<li>
-									<a href="#" data-toggle="control-sidebar"><i class="fa fa-gears"></i></a>
+									<a href="admin/login.php"><i class="fa fa-power-off"></i></a>
 								</li>
 							</ul>
 						</div>
@@ -73,7 +73,7 @@
 								<img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
 							</div>
 							<div class="pull-left info">
-								<p>Tom Clabaux</p>
+								<p>ProxiTeam</p>
 								<a href="#"><i class="fa fa-circle text-success"></i> Online</a>
 							</div>
 						</div>
